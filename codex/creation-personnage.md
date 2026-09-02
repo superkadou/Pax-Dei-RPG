@@ -6,11 +6,11 @@ Chaque Ordre possède une compétence passive unique qui reflète les capacites 
 
 | Jet (2d6) | Ordre Social |  Fonction | Compétence | Utilité |
 | --- | --- | --- | --- | --- |
-| **2–3** | **Bellatores** *(Châtelains / Haute Noblesse)* | ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
+| **2–3** | **Bellatores** *(Châtelains / Haute Noblesse)* | ceux qui combattent | Hardiesse | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 | **4–5** | **Oratores** *(Haut Clergé / Abbayes)* |  ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
 | **6–8** | **Laboratores** *(Peuple / Artisans / Paysans)* |  ceux qui travaillent | Prudhomie | Sagesse populaire / débrouillardise paysanne : Permet de trouver des solutions improvisées et de résister aux épreuves avec opiniatreté |    
 | **9–10** | **Oratores** *(Bas Clergé / Prêtres ruraux)* |  ceux qui parlent | Verbe | Manipulation des mots sacrés : Permet d’invoquer des bénédictions, des malédictions, ou de convaincre par la foi |
-| **11–12** | **Bellatores** *(Petite Noblesse / Miles)* |  ceux qui combattent | Entregent | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
+| **11–12** | **Bellatores** *(Petite Noblesse / Miles)* |  ceux qui combattent | Hardiesse | Maîtrise de la présence martiale : Permet d’intimider, de mener des troupes, ou de déséquilibrer un adversaire par la ruse | 
 
 ### L'Humeur dominante
 Le moment où l'enfant pousse son premier cri sous la voûte céleste marque aussi la balance de ses fluides.
