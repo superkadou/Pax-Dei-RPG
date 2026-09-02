@@ -31,16 +31,16 @@ L’humeur dominante définit le tempérament principal du personnage.
 * Flegme (lié à la Rate) : Calme, résilient, patient.
 
 2. Score de Base des Humeurs  
-Le score de base d’une humeur est égal à la moitié des points investis dans la caractéristique associée, arrondi à l’inférieur.
+Le score de base d’Humeur est égal à la moitié des points investis dans les caractéristiquess arrondi à l’inférieur.
 
-Exemple : Un personnage a Cœur : 4 points → Sang = 4/2 = 2 points.
-Chaque humeur commence avec un score de base calculé ainsi, puis peut être augmentée ou diminuée en cours de jeu.
+Exemple : Un personnage a Cœur 4 points, Sang 3 points, Phlegme 2 points et Cerveau 3 points = 12/2 = 6 points.
 
-3. Utilisation des Humeurs  
+
+3. Utilisation de l'Humeur  
 Lorsqu’un personnage effectue une action, il peut puiser dans l’humeur associée pour augmenter ses chances de réussite :
 
 1 point d’humeur utilisé = +/-1 au jet de dés.
-Exemple : Un personnage avec Sang 4 peut dépenser 1 points pour obtenir +1 à un jet lié au Cœur (ex : persuasion, courage).
+Exemple : Un personnage avec Humeur 4 peut dépenser 1 points d'Humeur (Sang) pour obtenir +1 à un jet lié au Cœur (ex : persuasion, courage).
 
 ## Virtus
 
