@@ -54,9 +54,9 @@ Un repos d'une durée égale au score de Virtus en heures suffit à récupérer 
 
 ### **X. Eucrasie et Dyscrasie**
 
-L'eucrasie représente l'équilibre, l'état idéal de l'être humain. La dyscrasie n'est point une maladie, mais le terreau où les maladies prennent racine. Un corps désaccordé résiste moins aux blessures, aux fièvres, aux poisons et aux rigueurs du monde. Aussi le Maistre des Contes est-il libre d'y voir l'origine de bien des maux, selon les croyances des hommes et le jugement du récit.
+L'Eucrasie représente l'équilibre, l'état idéal de l'être humain. La Dyscrasie n'est point une maladie, mais le terreau où les maladies prennent racine. Un corps désaccordé résiste moins aux blessures, aux fièvres, aux poisons et aux rigueurs du monde. Aussi le Maistre des Contes est-il libre d'y voir l'origine de bien des maux, selon les croyances des hommes et le jugement du récit.
 
-Dès que le pool d'Humeurs diminue sous la moitie (arrondie à l'inférieure) du score maximal, le personne entre en Dyscrasie.
+Dès que le pool d'Humeur diminue sous la moitie (arrondie à l'inférieure) du score maximal, le personne entre en Dyscrasie.
 A partir de ce moment, chaque dépense d'un point d'humeur, doit s'accompagner d'un effet d'une durée de plusieurs Assauts lié à l'organe concerné. Par ailleurs le Maistre des conteurs dispoe de toute license pour aggraver certaines circonstances s'il le souhaite.
 
 * Table des afflictions humorales  
