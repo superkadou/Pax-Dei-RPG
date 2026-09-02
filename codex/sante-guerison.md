@@ -57,7 +57,7 @@ Un repos d'une durée égale au score de Virtus en heures suffit à récupérer 
 L'Eucrasie représente l'équilibre, l'état idéal de l'être humain. La Dyscrasie n'est point une maladie, mais le terreau où les maladies prennent racine. Un corps désaccordé résiste moins aux blessures, aux fièvres, aux poisons et aux rigueurs du monde. Aussi le Maistre des Contes est-il libre d'y voir l'origine de bien des maux, selon les croyances des hommes et le jugement du récit.
 
 Dès que le pool d'Humeur diminue sous la moitie (arrondie à l'inférieure) du score maximal, le personne entre en Dyscrasie.
-A partir de ce moment, chaque dépense d'un point d'humeur, doit s'accompagner d'un effet d'une durée de plusieurs Assauts lié à l'organe concerné. Par ailleurs le Maistre des conteurs dispoe de toute license pour aggraver certaines circonstances s'il le souhaite.
+A partir de ce moment, chaque organe dont la jauge d'humeur est supérieur a son score entraine un effet d'une durée de plusieurs Assauts lié à l'organe concerné. Par ailleurs le Maistre des conteurs dispose de toute licence pour aggraver certaines circonstances s'il le souhaite.
 
 * Table des afflictions humorales  
   
@@ -70,11 +70,11 @@ A partir de ce moment, chaque dépense d'un point d'humeur, doit s'accompagner d
 
 ### **X. Récupération**
 
-Le seul moyen de soigner une dyscrasie est de rééquilibrer les humeurs en regagnant des point d'humeur. Le repos permet de régénérer la réserve générale d'Humeur en purifiant et en rééquilibrant les fluides du corps.
+Le seul moyen de soigner une dyscrasie est de rééquilibrer les humeurs en regagnant des point d'humeur et en diminuant les jauges . Le repos permet de régénérer la réserve générale d'Humeur en purifiant et en rééquilibrant les fluides du corps.
 
-Une nuit de sommeil complète (sans interruption majeure) permet de restaurer 1 point d'Humeur. Si le personnage consomme ou applique juste avant ou s'entoure pendant son repos d'éléments associés aux différentes Humeurs (plantes, cataplasmes, boissons, rites, objets d'affinité), il accélère alors son rééquilibrage à raison de +1 point d'Humeur supplémentaire par Humeur différente représentée.
+Une nuit de sommeil complète (sans interruption majeure) permet de restaurer jusqu'à 1 point d'Humeur par jauge d'Humeur entamée. Si le personnage consomme ou applique juste avant ou s'entoure pendant son repos d'éléments associés aux différentes Humeurs (plantes, cataplasmes, boissons, rites, objets d'affinité), il accélère alors son rééquilibrage à raison de +1 point d'Humeur supplémentaire par Humeur différente représentée.
 
-Limite : La récupération est plafonnée à 5 points d'Humeur maximum par nuitée (1 point de base + 1 point pour chacune des 4 Humeurs).
+Limite : La récupération est plafonnée à 8 points d'Humeur maximum par nuitée (2 point pour chacune des 4 Humeurs).
 
 * Table des correspondances humorales
   
