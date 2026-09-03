@@ -13,10 +13,9 @@ Ce projet est l'œuvre de **superkadou**.
 
 ### Remerciements
 
-* **Au PL :** Mog, Stan, Tigris, Dave et Yogi.
-* **À LionJDR :** Lion, Puik, Kim, Bru, le Minotaure, Matmat, Paulo, Manu, et bien d'autres
-
-pour plusieurs décennies de bonne humeur, de jeu et d'inspiration.
+* **Aux PL** pour plusieurs décennies d'amitié, de bonne humeur, de jeu et d'inspiration.
+* **À LionJDR** pour plusieurs décennies d'amitié, de bonne humeur, de jeu et d'inspiration.
+* **Aux Forgeurs de Légendes** pour leur accueil chaleureux, leur bonne humeur, et leurs retours bienveillants et constructifs.
 
 ---
 
