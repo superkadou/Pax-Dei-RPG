@@ -1,11 +1,11 @@
-# Sous les Cendres : les Runes et la Croix
+# Les Secrets de la Vallée Noire
 
-Une aventure médiévale basée sur la théorie des humeurs et l'équilibre des organes.
+Une aventure médiévale berrichone basée sur la théorie des humeurs et l'équilibre des organes.
 
 ---
 
 ##  Présentation
-**Sous les Cendres : les Runes et la Croix** est un jeu de rôle indépendant qui plonge les joueurs dans un univers inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
+**Les Secrets de la Vallée Noire** est un jeu de rôle indépendant qui plonge les joueurs dans un univers berrichon inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
 
 ## Installation & Utilisation
 Le projet est conçu pour être "Print & Play" ou utilisé via des outils numériques.
