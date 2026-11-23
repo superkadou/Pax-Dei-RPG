@@ -1,4 +1,4 @@
-# Les Secrets de la Vallée Noire
+# Pax Dei : Gueux et châtelains
 
 Une aventure médiévale berrichone basée sur la théorie des humeurs et l'équilibre des organes.
 
