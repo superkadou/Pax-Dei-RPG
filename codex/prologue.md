@@ -57,4 +57,4 @@ Ce Maistre des Contes — qu’on nomme aussi parfois Maître des Destins ou Con
 
 Les autres, les compagnons, incarnent les **protagonistes** de cette histoire qu'ils tissent de concert avec le Conteur.
 
-Ces récits se nomment **Aventures**. Une suite d’aventures liées forme une **Campagne** — une geste qui s’étire sur des lunes, voire des années, et dont les bardes chanteront les hauts faits bien après que vous aurez quitté la table. Ce codex renferme un **traité** intitulé « Conseils pour les Quêtes » : il sera votre boussole pour créer vos propres épopées, afin que jamais ne tarisse votre soif de récits.
+Ces récits se nomment **Aventures**. Une suite d'aventures liées entre elles forme une **Geste** — une geste qui s’étire sur des lunes, voire des années, et dont les bardes chanteront les hauts faits bien après que vous aurez quitté la table. Ce codex renferme un **traité** intitulé « Conseils pour les Quêtes » : il sera votre boussole pour créer vos propres épopées, afin que jamais ne tarisse votre soif de récits.
