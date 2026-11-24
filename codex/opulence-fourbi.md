@@ -20,14 +20,14 @@ Un objet ne peux pas avoir plus d'attribut que sa qualité.
 
 ### Qualité des objets
 
-| Niveau | Points d’Attributs | Description | Exemples d’Objets |
-| --- | --- | --- | --- |
-| Improvisé | 0 | Objet de fortune, automatiquement Emoussé | Branche, couteau rouillé |
-| Commun | 1 | Objet basique | Épée standard, bouclier en bois, gambison |
-| Qualité | 2 | Objet bien conçu | Épée forgée, armure en cuir renforcé |
-| Mastercraft | 3 | Objet maître | Épée damassée, cotte de mailles |
-| Légendaire | 4 | Objet exceptionnel | Épée des rois, armure runique |
-| Relique | Attribut unique |  Objet mythique | Artefact maudit, arme divine |
+| Niveau | Points d’Attributs | Opulence | Description | Exemples d’Objets |
+| --- | --- | --- | --- | --- |
+| Improvisé | 0 | 1 | Objet de fortune, automatiquement Emoussé | Branche, couteau rouillé |
+| Commun | 1 | 1 | Objet basique | Épée standard, bouclier en bois, gambison |
+| Qualité | 2 | 1 | Objet bien conçu | Épée forgée, armure en cuir renforcé |
+| Mastercraft | 3 | 1  | Objet maître | Épée damassée, cotte de mailles |
+| Légendaire | 4 | 1 | Objet exceptionnel | Épée des rois, armure runique |
+| Relique | Attribut unique |  1 | Objet mythique | Artefact maudit, arme divine |
 
 Le niveau d'Opulence nécessaire pour pouvoir acheter un objet sans perdre de niveau est Points d'attributs +1, sauf pour les objets improvises qui ne coutent rien.  
 
