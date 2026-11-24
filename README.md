@@ -1,4 +1,4 @@
-# Pax Dei : Gueux et châtelains
+# Pax Dei
 
 Une aventure médiévale berrichone basée sur la théorie des humeurs et l'équilibre des organes.
 
