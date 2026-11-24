@@ -1,4 +1,4 @@
-# Sous les cendres : les Runes et la Croix
+# Pax Dei
 ### Un Ieu de Paroles dans un monde où les cendres du passé nourrissent les récits du présent.
 # Codex des règles
 ## Prologue
