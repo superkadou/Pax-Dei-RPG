@@ -5,7 +5,7 @@ Une aventure médiévale berrichone basée sur la théorie des humeurs et l'équ
 ---
 
 ##  Présentation
-**Les Secrets de la Vallée Noire** est un jeu de rôle indépendant qui plonge les joueurs dans un univers berrichon inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
+**Pax Dei** est un jeu de rôle indépendant qui plonge les joueurs dans un univers berrichon inspiré du Haut Moyen Âge (900-1100). Ici, point de statistiques classiques (Force, Agilité) : la santé et les capacités de votre personnage dépendent de l'équilibre de ses **Humeurs** et de la vigueur de ses **Organes**.
 
 ## Installation & Utilisation
 Le projet est conçu pour être "Print & Play" ou utilisé via des outils numériques.
