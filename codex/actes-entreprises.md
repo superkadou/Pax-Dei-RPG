@@ -75,8 +75,8 @@ Les niveaux de réussite (Échec, Réussite Partielle, Réussite Complète) dép
 
 Le corps humain est gouverné par quatre Humeurs (liquides vitaux), chacune associée à un élément, une saison, un tempérament, et un organe principal.  
 
-Une fois par test de d'organe, un personnage peut dépenser 1, et un seul, point d'Humeur pour retrancher 1 à l’un de ses dés (avant ou après le jet). Il doit alors augmenter la jauge d'humeur de l'organe associé.
-Cela lui permet de transformer un échec (supérieur au seuil) en réussite (inférieur ou égal) et ainsi donc d'atteindre une réussite partielle, complète, éviter un échec critique, ou transformer une réussite en réussite critique.
+Une fois par test de d'organe, un personnage peut faire appel à l'Humeur associée à l'organe du jet pour modifier de 1 l’un de ses dés (avant ou après le jet). Il doit alors augmenter la jauge d'humeur de l'organe associé.
+Cela lui permet par exemple, de transformer un échec (supérieur au seuil) en réussite (inférieur ou égal) ou encore d'atteindre une réussite partielle, complète, éviter un échec critique, ou transformer une réussite en réussite critique.
 
 Exemples :
 
