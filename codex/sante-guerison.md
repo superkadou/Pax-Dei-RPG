@@ -6,7 +6,7 @@ La Virtus (Cœur + Rate) représente la réserve de souffle, d'équilibre et de 
 
 Les touches subies par un personnage entament sa santé dans l'ordre suivant :
 - L'Estour (Coeur) : jusqu'à épuisement de la valeur de Coeur.
-- Les Pliès (Rate) : une fois l'Estour épuisé, jusqu'à épuisement de la valeur de Rate.
+- Les Plies (Rate) : une fois l'Estour épuisé, jusqu'à épuisement de la valeur de Rate.
 - Les Grièves Blessures : Si le combat se poursuit au-delà de la Virtus (Cœur + Rate), chaque assaut perdu entame occasionne un nouveau stade de griève blessure : Destresse, Desconfiture et Trépas.
 
 #### **Destresse**  
