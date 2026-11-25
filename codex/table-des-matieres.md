@@ -42,9 +42,9 @@
 * ### "Le pense bête du Maistre Conteur"
   
 ## Livre septième : Des Parchemins Vierges pour la Mémoire des Faicts
-* ### [Bellatores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_bellatores-v0.10.png)
-* ### [Oratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_oratores-v0.10.png)
-* ### [Laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_laboratores-v0.10.png)
+* ### [Bellatores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_bellatores-v0.12.png)
+* ### [Oratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_oratores-v0.12.png)
+* ### [Laboratores](https://github.com/superkadou/sous-les-cendres-RPG/blob/main/assets/Cendres_laboratores-v0.12.png)
   
 ---
 TODO
